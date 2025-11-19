@@ -13,9 +13,6 @@
       "channel": "development",
       "android": {
         "image": "latest"
-      },
-      "ios": {
-        "image": "latest"
       }
     },
     "preview": {
