@@ -51,4 +51,4 @@ Join our community of developers creating universal apps.
 
 
 # CONTINUE
-https://docs.expo.dev/tutorial/eas/android-development-build/
+https://docs.expo.dev/tutorial/eas/android-production-build/
