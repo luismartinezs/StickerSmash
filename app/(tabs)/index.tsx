@@ -46,7 +46,7 @@ export default function Index() {
       setSelectedImage(result.assets[0].uri);
       setShowAppOptions(true);
     } else {
-      alert("You did not select any image.");
+      alert("You did not select any images.");
     }
   };
 
@@ -124,7 +124,7 @@ export default function Index() {
         <View style={styles.footerContainer}>
           <Button
             theme="primary"
-            label="Choose a photo"
+            label="Select a photo"
             onPress={pickImageAsync}
           />
           <Button
