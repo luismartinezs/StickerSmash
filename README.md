@@ -51,4 +51,5 @@ Join our community of developers creating universal apps.
 
 
 # CONTINUE
-https://docs.expo.dev/tutorial/eas/android-production-build/
+auth: https://docs.expo.dev/guides/google-authentication/
+paywall: https://docs.expo.dev/guides/in-app-purchases/
